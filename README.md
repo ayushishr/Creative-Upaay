@@ -1,6 +1,8 @@
 Creative Upaay – Kanban Task Manager
 Creative Upaay is a modern Kanban board built with React, Redux, and Firebase Authentication. It enables users to organize tasks into stages like Todo, In Progress, and Done with smooth drag-and-drop interactions, filters, and an activity log for better productivity tracking.
 
+Deployment link --- https://creative-upaay.vercel.app/
+
 ✨ Key Features
 🔐 User Authentication
 Secure sign-up and login using Firebase
