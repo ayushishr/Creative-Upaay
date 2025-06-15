@@ -94,7 +94,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/rashhworld/dashboard-creative-upaay.git
+git clone https://github.com/ayushishr/Creative-Upaay
 Install dependencies
 
 bash
